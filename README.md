@@ -1,2 +1,2 @@
 # LC_fansite
- een fansite voor limbus company- project for school
+ A fansite for limbus company- project for school
