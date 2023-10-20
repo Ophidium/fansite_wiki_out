@@ -1,2 +1,2 @@
-# LC_fansite
- A fansite for limbus company- project for school
+# wiki_fansite_out
+ planned project for school, comparison site for certain items of a game
