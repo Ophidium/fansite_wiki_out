@@ -20,9 +20,11 @@
     "@types/react-dom": "18.0.11",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
+    "mysql2": "^3.6.3",
     "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "sequelize": "^6.35.0",
     "typescript": "^5.0.3",
     "vercel": "^28.18.3"
   }
