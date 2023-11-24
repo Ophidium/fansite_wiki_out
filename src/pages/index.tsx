@@ -21,13 +21,16 @@ export default function Home() {
             <code className={styles.code}>src/pages/index.tsx</code>
           </p>
         </div>
-        <p>
+        <div className={styles.description}>
+          <p>
             <ul>
               <li>Coffee</li>
               <li>Tea</li>
               <li>Milk</li>
             </ul>
           </p>
+        </div>
+
       </main>
     </>
   )
